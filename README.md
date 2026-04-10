@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently Working with  **React.js**  , **ExpressJS** , **TypeScript** , **Tailwind Css** , **MongoDB**
+- 🌱 I’m currently Working with  **React.js**, **ReactNative**  , **ExpressJS** , **TypeScript** , **Tailwind Css** , **MongoDB**
 
 -  You can find my portfolio at -> [omkar-borude.netlify.app](https://omkar-borude.netlify.app/)
 
